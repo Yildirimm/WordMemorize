@@ -89,3 +89,18 @@ class word_class:
         :param word_to_check:
         :return: True (Exist) or False (Dont Exist)
         '''
+
+        with open(file_name, 'r', encoding='utf-8') as f1:
+
+            for line in f1:
+                splits = line.split(',') # returns list
+
+                if splits[2].strip().casefold() == word_to_check.strip().casefold():  # case insensitive comparison
+                    #print(splits[2].strip().casefold(),
+                    #      word_to_check.strip().casefold())
+                    print('I have found the word\n')
+                    print('Add another word')
+                else:
+                    print('the word doesnt exist\n')
+
+

@@ -2,8 +2,8 @@
 Author: Yildirimm
 '''
 
-## link: https://zetcode.com/python/googletrans/
-## https://pypi.org/project/googletrans/
+# link: https://zetcode.com/python/googletrans/
+# https://pypi.org/project/googletrans/
 
 import random
 from datetime import date
@@ -12,24 +12,24 @@ import pandas as pd
 from googletrans import Translator
 # working version pip install googletrans==3.1.0a0
 
-import Word_operations as wo
+import Word_operations as Wo
 from Word_operations import *
 
 LANGUAGE_SET = {'de', 'en', 'tr'}
 translator = Translator()
 
-my_word = wo.word_class
+my_word = Wo.word_class
 last_date = str(date.today())
 
-## TODO: ask for word input OR word_memorize
+# TODO: ask for word input OR word_memorize
 x = str(input("Would you like to add a word or memorize a word, press [a] or [m]\n"))
 
 
 if x == "a":
     print('\n you pressed a\n')
 
-    ## TODO: if INPUT, then use INPUT operations
-    ## TODO: save the file
+    # TODO: if INPUT, then use INPUT operations
+    # TODO: save the file
     while True:
         input_type, input_word = str(input("the word as word or sentence [w,s]: ")).split(",")
         print(type(input_word), input_word)
@@ -39,7 +39,7 @@ if x == "a":
         trans1 = translator.translate(input_word, src=source_lang, dest="en").text
         trans2 = translator.translate(input_word, src=source_lang, dest="tr").text
 
-        my_word = wo.word_class(word_cat=input_type, last_date=last_date,
+        my_word = Wo.word_class(word_cat=input_type, last_date=last_date,
                                 word_itself=input_word, trans1=trans1, trans2=trans2)
 
         print(my_word.word_cat, "\n", my_word.word_itself,
@@ -47,22 +47,16 @@ if x == "a":
 
         my_word.save_to_file()
 
-
-
-
-
         b = input("if you want to break entering words press b")
         if b == "b":
             break
         else:
             print('wo.read_the_record(10)')
 
-
-
 elif x == "m":
     print('\n you pressed m\n')
-    ## TODO: if MEMORIZE, then use memorize operations
-    ## TODO: save the rows of file
+    # TODO: if MEMORIZE, then use memorize operations
+    # TODO: save the rows of file
 
     data = pd.read_csv(file_name, encoding='unicode_escape')
     the_size = round(len(data)/20)
@@ -91,7 +85,7 @@ elif x == "m":
             the_date = last_date
             print(the_count, the_date)
 
-            ## TODO: Record the counts to the csv file (currently misisng)
+            # TODO: Record the counts to the csv file (currently missing)
             # data.to_csv(file_name, index=False)
         else:
             print('You entered it wrong')  # do nothing
@@ -165,7 +159,7 @@ elif x == "m":
 
 '''
 
-## TODO: close the program
+# TODO: close the program
 '''
 # data = ['Dobrý deň', 'majestátny orol', 'krehká dohoda']
 data = str(input('put the word you want to translate: '))

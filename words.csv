@@ -1,0 +1,580 @@
+word_cat,last_date,word_itself,en,tr,correct_count
+w,2023-01-01, das buch,the book,kitap,0.0
+w,2023-01-01, das Wasser,the water,su,0.0
+s,2023-01-01, ich bin gut,I am good,iyiyim,0.0
+s,2023-01-01, das ist schoen,that's nice,Bu gï¿½zel,0.0
+w,2023-01-01, der Tisch,the table,masa,0.0
+w,2023-01-01, der Schreibtisch,the desk,masa,0.0
+w,2023-01-01, die Schokolade,the chocolate,ï¿½ikolata,0.0
+w,2023-01-01, das Blut,the blood,kan,0.0
+w,2023-01-01, gewusst,knew,bilen,0.0
+w,2023-01-01, reitet,rode,Binmek,0.0
+w,2023-01-01, reiten,horse riding,Binicilik,0.0
+w,2023-01-01, darf,may,izin almak,0.0
+w,2023-01-01, duerfen,to define,tanï¿½mlamak iï¿½in,0.0
+s,2023-01-01, aber auch fï¿½r sie ist er zu klein,But he is too small for them too,Ama o onlar iï¿½in de ï¿½ok kï¿½ï¿½ï¿½k,0.0
+w,2023-01-01, die Ferse,the heel,topuk,0.0
+w,2023-01-01, hinein,in,iï¿½inde,0.0
+w,2023-01-01, das Weh,The hurt,Acï¿½,0.0
+w,2023-01-01, tun ,yet,hala,0.0
+s,2023-01-01, ich tue,I do,Yaparï¿½m,0.0
+w,2023-01-01, werden,will,irade,0.0
+w,2023-01-01, die Trauben,the grapes,ï¿½zï¿½mler,0.0
+w,2023-01-01, der Ruck,The jerk,Pislik,0.0
+w,2023-01-01, das Daheim,The home,Ev,0.0
+w,2023-01-01, die Braut,the bride,gelin,0.0
+w,2023-01-01, wï¿½tend,furious,ï¿½ok ï¿½fkeli,0.0
+s,2023-01-01, ich will sie trotzdem sehen,I want to see her anyway,Onu yine de gï¿½rmek istiyorum,0.0
+s,2023-01-01, wie sie wï¿½nschen ,as you wish,nasï¿½l istersen,0.0
+s,2023-01-01, wenn du nicht gleich kommst,If you don't come right away,Hemen gelmezsen,0.0
+w,2023-01-01, verrï¿½ckt,crazy,ï¿½ï¿½lgï¿½n,0.0
+w,2023-01-01, schimpfen,rant,rant,0.0
+w,2023-01-01, schimpft,scold,azarlamak,0.0
+w,2023-01-01, leicht,light,ï¿½ï¿½ï¿½k,0.0
+w,2023-01-01, heben,to lift,kaldï¿½rmak iï¿½in,0.0
+s,2023-01-01, Lina hebt den Kopf,Lina lifts his head,Lina baï¿½ï¿½nï¿½ kaldï¿½rï¿½yor,0.0
+w,2023-01-01, lï¿½cheln ,smile,gï¿½lï¿½msemek,0.0
+e,2023-01-01, umarmen ,embrace,kucaklamak,0.0
+s,2023-01-01, Sie haben sich an und dann mï¿½ssen beide lachen,You have on and then both have to laugh,ï¿½zerinde ve sonra ikiniz de gï¿½lmek zorundasï¿½n,0.0
+w,2023-01-01, lachen ,laugh,kahkaha,0.0
+w,2023-01-01, die Hochzeit,the wedding,dï¿½ï¿½ï¿½n,0.0
+w,2023-01-01, die Freundin,the girlfriend,kï¿½zarkadaï¿½,0.0
+w,2023-01-01, gurren ,Gurren,guguk,0.0
+s,2023-01-01, Die Taube gurrt auf dem Balkon,The pigeon cooing on the balcony,Gï¿½vercin balkonda gugukluyor,0.0
+w,2023-01-01, abschneiden,cut off,ayï¿½rmak,0.0
+w,2023-01-01, der Tod,the death,ï¿½lï¿½m,0.0
+w,2023-01-01, faul,lazy,tembel,0.0
+w,2023-01-01, die Zusammenfassung,the abstract,soyut,0.0
+w,2023-01-01, der Lohn,the salary,maaï¿½,0.0
+w,2023-01-01, dï¿½rfen ,allowed to,izinli,0.0
+w,2023-01-01, verdienen ,to deserve,hak etmek,0.0
+w,2023-01-01, die Trommel,the drum,davul,0.0
+w,2023-01-01, die Gitarre,the guitar,gitar,0.0
+s,2023-01-01, denn Sie hoffen dass es dort ein Haus gibt und Essen,Because they hope that there is a house there and eat,ï¿½ï¿½nkï¿½ orada bir ev olduï¿½unu ve yemek yediï¿½ini umuyorlar,0.0
+w,2023-01-01, weiterï¿½gehen,keep going,devam et,0.0
+w,2023-01-01, tatsï¿½chlich,In fact,Aslï¿½nda,0.0
+w,2023-01-01, nennen ,to name,adï¿½na,0.0
+w,2023-01-01,  der Tierlaut,The animal sound,Hayvan sesi,0.0
+w,2023-01-01, vergleichen ,to compare,karï¿½ï¿½laï¿½tï¿½rmak,0.0
+w,2023-01-01, die Zeile,the line,ï¿½izgi,0.0
+w,2023-01-01, einï¿½tragen,enter,girmek,0.0
+w,2023-01-01, der Kasten,the box,kutu,0.0
+w,2023-01-01, bequem,comfortable,rahat,0.0
+w,2023-01-01, verbrennen ,burn,yakmak,0.0
+w,2023-01-01, der Finger,the finger,parmak,0.0
+w,2023-01-01, die Hintertï¿½r,The back door,Arka kapï¿½,0.0
+w,2023-01-01, wecken,wake up,uyan,0.0
+w,2023-01-01, beiï¿½en ,bite,lokma,0.0
+w,2023-01-01, das Bein,the leg,bacak,0.0
+w,2023-01-01, der Dieb,the thief,hï¿½rsï¿½z,0.0
+w,2023-01-01, das Verbrechen,the crime,suï¿½,0.0
+w,2023-01-01, das Märchen,the tale,masal,0.0
+w,2023-01-01, der Ungar,Hungarian,Macar,0.0
+w,2023-01-01, das Losungswort,the solution word,ï¿½ï¿½zï¿½m kelimesi,0.0
+s,2023-01-01, was soll sie Wald tun bzw nicht tun,What should it do or do not do it,Ne yapmalï¿½ veya yapmamalï¿½,0.0
+s,2023-01-01, sie soll der Grossmutter mit den Blumen ziegen dass sie sie gern hat,She should goats the grandmother with the flowers that she likes to have her,Bï¿½yï¿½kanneyi ona sahip olmayï¿½ sevdiï¿½i ï¿½iï¿½eklerle keï¿½i yapmalï¿½,0.0
+w,2023-01-01, gewinnen ,to win,kazanmak,0.0
+w,2023-01-01, das Tief,the deep,derin,0.0
+w,2023-01-01, zurückfinden,Back Find,Geri ï¿½ Bul,0.0
+w,2023-01-01, das Kleid,the dress,elbise,0.0
+w,2023-01-01, der Gedanken,the thoughts,dï¿½ï¿½ï¿½nceler,0.0
+s,2023-01-01, Blumen wie nett von ihr,flowers how nice of her,Ã§iÃ§ekler onun ne kadar gÃ¼zel,0.0
+w,2023-01-01, die Süsse,the sweet,tatlï¿½,0.0
+w,2023-01-01, die Speise,the food,yemek,0.0
+w,2023-01-01, die Nachspeise,dessert,tatlï¿½,0.0
+w,2023-01-01, ungewöhnlich,unusual,olaï¿½an dï¿½ï¿½ï¿½,0.0
+s,2023-01-01, er tÃ¼tet ihn,He brings him,Onu getiriyor,0.0
+w,2023-01-01, tueten,Tueten,Tueten,0.0
+w,2023-01-01, die Tüte,the bag,ï¿½anta,0.0
+w,2023-01-01,das Streichen,the swipe,tokatlamak,0.0
+w,2023-01-01, das Gewehr,the rifle,tï¿½fek,0.0
+w,2023-01-01, das Fillen,Filling,dolgu,0.0
+w,2023-01-01, das Brunnen,The fountain,ï¿½eï¿½me,0.0
+w,2023-01-01, variant,variant,varyant,0.0
+w,2023-01-01, der Schluss,the end,son,0.0
+w,2023-01-01, beantworten ,respond,cevap vermek,0.0
+w,2023-01-01, die Halbschwester,The half sister,ï¿½vey kï¿½z kardeï¿½,0.0
+w,2023-01-01, das Festessen,the meal,yemek,0.0
+w,2023-01-01, heiraten ,marry,evlenmek,0.0
+w,2023-01-01, die Stiefmutter,the stepmother,ï¿½vey anne,0.0
+w,2023-01-01, wohlfühlen,comfortably feel,rahatlikla hissediyorum,0.0
+w,2023-01-01, aufhalten,stop,Dur,0.0
+w,2023-01-01, aufhalten,stop,Dur,0.0
+w,2023-01-01, der Schmutz,the dirt,kir,0.0
+w,2023-01-01, die Tï¿½nzerin,the dancer,dansï¿½ï¿½,0.0
+w,2023-01-01, unvorstellbar,inconceivably,akï¿½l almaz bir ï¿½ekilde,0.0
+w,2023-01-01, begï¿½nnern ,gage,gaga,0.0
+w,2023-01-01, das Beginnen,start,Baï¿½lat,0.0
+w,2023-01-01, die Tanzpartnerin,The dance partner,Dans partneri,0.0
+w,2023-01-01, der Abschnitt,the section,Bï¿½lï¿½m,0.0
+w,2023-01-01, Reihenfolge,sequence,sï¿½ra,0.0
+w,2023-01-01, ausï¿½sehen,looks,gï¿½rï¿½nï¿½yor,0.0
+w,2023-01-01, ausschlieï¿½lich,exclusively,mï¿½nhasï¿½ran,0.0
+w,2023-01-01, schlieï¿½lich,after all,Nihayet,0.0
+w,2023-01-01, erkennen ,detect,tespit etmek,0.0
+w,2023-01-01, verabschieden ,saying goodbye,Gï¿½le gï¿½le demek,0.0
+s,2023-01-01, Muller trinkt noch einen zweite Kaffee,Muller drinks a second coffee,Muller ikinci bir kahve iï¿½iyor,0.0
+w,2023-01-01, das Frï¿½hstï¿½ck,breakfast,kahvaltï¿½,0.0
+w,2023-01-01, das Frï¿½hstï¿½ck,breakfast,kahvaltï¿½,0.0
+w,2023-01-01, beim Frï¿½hstï¿½ck,at breakfast,kahvaltï¿½da,0.0
+s,2023-01-01, ich habe mir solche Sorgen gemacht,I was so worried,ï¿½ok endiï¿½elendim,0.0
+w,2023-01-01, sorgen ,care for,bakï¿½mï¿½nï¿½ yapmak,0.0
+w,2023-01-01, warnen ,to warn,uyarmak,0.0
+w,2023-01-01, unterbrechen ,interrupt,kesmek,0.0
+s,2023-01-01, wir gehen beide auf Oktoberfest,We both go to Oktoberfest,ï¿½kimiz de Oktoberfest'e gidiyoruz,0.0
+w,2023-01-01, fï¿½rchterlich,terrible,korkunï¿½,0.0
+w,2023-01-01, die Verletzung,the injury,yaralanma,0.0
+w,2023-01-01, verschwinden ,disappear,kaybolmak,0.0
+w,2023-01-01, betï¿½uben ,anesthetize,uyutmak,0.0
+w,2023-01-01, die Bedienung,The operation,Operasyon,0.0
+w,2023-01-01, schlieï¿½lich,after all,Nihayet,0.0
+w,2023-01-01, leicht,light,ï¿½ï¿½ï¿½k,0.0
+w,2023-01-01, nicht leicht,not easy,kolay deï¿½il,0.0
+w,2023-01-01, die Wiege,the cradle,Beï¿½ik,0.0
+w,2023-01-01, immerhin,after all,Nihayet,0.0
+w,2023-01-01, ansiehen,hide,saklamak,0.0
+w,2023-01-01, schau mal,just look,sadece bakmak,0.0
+s,2023-01-01, er schlaeft jede Nacht dort,He slays there every night,Her gece orada ï¿½ldï¿½rï¿½yor,0.0
+s,2023-01-01, Muller trinkt seine vierte Tasse,Muller drinks his fourth cup,Muller dï¿½rdï¿½ncï¿½ fincanï¿½nï¿½ iï¿½iyor,0.0
+w,2023-01-01, die Tasse,the cup,fincan,0.0
+w,2023-01-01, anï¿½gehen,approach,yaklaï¿½mak,0.0
+w,2023-01-01, angehen,approach,yaklaï¿½mak,0.0
+s,2023-01-01,Als Helmut ihm seinen Plan erklaerte war er begeistert,"When Helmut explained his plan for him, he was thrilled",Helmut onun iï¿½in planï¿½nï¿½ aï¿½ï¿½kladï¿½ï¿½ï¿½nda heyecanlandï¿½,0
+w,2023-01-01, die Hose,the pants,pantolon,0.0
+w,2023-01-01, die Decke,the ceiling,tavan,0.0
+w,2023-01-01, letzen ,last,geï¿½en,0.0
+w,2023-01-01, der Badegast,The bathing guest,Banyo Konuk,0.0
+w,2023-01-01, die Badegï¿½ste,The bathers,Batakï¿½ï¿½lar,0.0
+w,2023-01-01, entgegen,opposite,zï¿½t,0.0
+w,2023-01-01, das Lager,the warehouse,depo,0.0
+w,2023-01-01, das Lagerfeuer,the campfire,kamp ateï¿½i,0.0
+w,2023-01-01, laden ,laden,yï¿½klï¿½,0.0
+w,2023-01-01, nicken ,nod,baï¿½ï¿½nï¿½ sallamak,0.0
+s,2023-01-01, Mantel um die Schultem,Coat around the school,Okulun etrafï¿½nda kaplamak,0.0
+w,2023-01-01, der Mantel,the coat,ceket,0.0
+s,2023-01-01, Es ist kï¿½hl geworden,It has become cool,Serin hale geldi,0.0
+w,2023-01-01, merkwï¿½rdig,unusual,olaï¿½an dï¿½ï¿½ï¿½,0.0
+w,2023-01-01, sozusagen,so to speak,tabiri caizse,0.0
+w,2023-01-01, schauen ,look,bakmak,0.0
+s,2023-01-01, das rieche ich,I smell that,Kokuyorum,0.0
+w,2023-01-01, stimmen ,voices,sesler,0.0
+s,2023-01-01, lauschen in die Dunkelheit,listen to the darkness,Karanlï¿½ï¿½ï¿½ Dinle,0.0
+w,2023-01-01, liegen ,lie,Yalan,0.0
+s,2023-01-01, ich hï¿½re was,I hear something,Bir ï¿½ey duyuyorum,0.0
+w,2023-01-01, tatsï¿½chlich,In fact,Aslï¿½nda,0.0
+w,2023-01-01, entlang,along,boyunca,0.0
+s,2023-01-01, Wir warten bis sei vorbei sind und dann los,We wait until it is over and then go,Bitene kadar bekleriz ve sonra,0.0
+w,2023-01-01, hoffentlich,hopefully,umutla,0.0
+w,2023-01-01, aufï¿½passen,watch out,dikkat et,0.0
+w,2023-01-01, riechen ,smell,koku,0.0
+w,2023-01-01, schleppen ,drag,sï¿½rï¿½klemek,0.0
+w,2023-01-01, die Barrikade,the barricade,barikat,0.0
+w,2023-01-01, die Vorsicht,Caution,Dikkat,0.0
+w,2023-01-01, diesmal rï¿½ckwï¿½rts,This time backwards,Bu sefer geriye doï¿½ru,0.0
+w,2023-01-01, das Gerï¿½usch,the noise,gï¿½rï¿½ltï¿½,0.0
+w,2023-01-01, der Idiot,the idiot,aptal,0.0
+w,2023-01-01, der Quatsch,the rubbish,ï¿½ï¿½p,0.0
+w,2023-01-01, vorhin,earlier,daha erken,0.0
+w,2023-01-01, rasen ,race,ï¿½rk,0.0
+w,2023-01-01, das Polizeiauto,The police car,Polis Arabasï¿½,0.0
+w,2023-01-01, der Scheinwerfer,the headlight,Far,0.0
+s,2023-01-01, jungs ich hau ab,Guys I get off,Ben iniyorum,0.0
+s,2023-01-01, die Polizisten springen aus dem Auto,The police jump out of the car,Polis arabadan atla,0.0
+w,2023-01-01, herein,herein,burada,0.0
+w,2023-01-01, mitgebraucht,used,Kullanï¿½lmï¿½ï¿½,0.0
+w,2023-01-01, Exemplar der Abendzeitung,Exemplar of the evening newspaper,Akï¿½am gazetesinin ï¿½rneï¿½i,0.0
+w,2023-01-01, die Abendzeitung,The evening newspaper,Akï¿½am gazetesi,0.0
+w,2023-01-01, tropfen ,drops,damla,0.0
+w,2023-01-01, wachmï¿½nner,guardian,Muhafï¿½z,0.0
+s,2023-01-01, ich wart nicht die ersten Opfer,I weren't the first victims,ï¿½lk kurbanlar deï¿½ildim,0.0
+w,2023-01-01, das Opfer,The victim,Kurban,0.0
+w,2023-01-01, hofbau,farm building,ï¿½iftlik binasï¿½,0.0
+w,2023-01-01, beobachten ,watch,izlemek,0.0
+w,2023-01-01, die Begleitung,The accompaniment,Eï¿½lik,0.0
+w,2023-01-01, bewusstlos,unconscious,bilinï¿½siz,0.0
+w,2023-01-01, bewusstlos geworden,become unconscious,bilinï¿½siz olmak,0.0
+w,2023-01-01, die Wachleute,The guards,Gardiyanlar,0.0
+w,2023-01-01, ausrauben,rob,soymak,0.0
+w,2023-01-01,klug,"smart, wise",zeki,0
+s,2023-01-01, zu Hause glaubt mir sonst kein Mensch,No other person believes me at home,Baï¿½ka hiï¿½ kimse bana evde inanmï¿½yor,0.0
+s,2023-01-01,als sie sich verabschieden sagt Muller,"When they say goodbye, Muller says",Hoï¿½ï¿½akal dediklerinde Muller diyor,0
+w,2023-01-01, ach ï¿½brigens,By the way,Bu arada,0.0
+w,2023-01-01, mitgeben,give away,ï¿½ekiliï¿½,0.0
+s,2023-01-01, gehï¿½rt das dir,does this belong to you,Bu sana ait mi,0.0
+w,2023-01-01, der Ausweis,the ID card,Kimlik kartï¿½,0.0
+s,2023-01-01,tja Glï¿½ck gehabt mein Lieber,"Well, my dear",Peki canï¿½m,0
+w,2023-01-01, das Glï¿½ck,happiness,mutluluk,0.0
+s,2023-01-01, die Drei umarmen sich,The three hug each other,ï¿½ï¿½ï¿½ birbirine sarï¿½lï¿½yor,0.0
+s,2023-01-01, Tests zu den Kapiteln,Tests for the chapters,Bï¿½lï¿½mler iï¿½in Testler,0.0
+w,2023-01-01, das Telefongesprï¿½ch,the phone call,telefon gï¿½rï¿½ï¿½mesi,0.0
+w,2023-01-01, der Zettel,the note,not,0.0
+w,2023-01-01, das Fest,the party,Parti,0.0
+s,2023-01-01, was passiert am Tag danach,What happens the day after,Ertesi gï¿½n ne olur,0.0
+s,2023-01-01, danach,after that,daha sonrasï¿½nda,0.0
+s,2023-01-01, Felix tut der Arm weh,Felix hurts the arm,Felix kolu incitiyor,0.0
+s,2023-01-01, Felix geht am Fluss spazieren,Felix goes for a walk on the river,Felix nehirde yï¿½rï¿½yï¿½ï¿½e ï¿½ï¿½kï¿½yor,0.0
+s,2023-01-01, Felix kann sich nicht mehr an Gestern erinnern,Felix can no longer remember yesterday,Felix dï¿½n hatï¿½rlayamï¿½yor,0.0
+w,2023-01-01, erinnern ,remember,hatï¿½rlamak,0.0
+s,2023-01-01, Fromulieren sie die stichpunkte aus,Formulate the key points,Kilit noktalarï¿½ formï¿½le et,0.0
+w,2023-01-01, der Stichpunkt,The key point,Kilit nokta,0.0
+s,2023-01-01, Welcher gefallt ihnen am besten,Which one likes you best,Hangisi seni en ï¿½ok seviyor,0.0
+w,2023-01-01, ganz hinten,at the back,arkada,0.0
+w,2023-01-01, hinten links,back left,sol solda,0.0
+s,2023-01-01, verbinden sie,connect,baï¿½lamak,0.0
+w,2023-01-01, zusammengehï¿½rt,collapsed,ï¿½ï¿½kmï¿½ï¿½,0.0
+w,2023-01-01, zusammengehï¿½ren,belong together,birbirine ait,0.0
+w,2023-01-01, rï¿½ckwarts,backward,geriye,0.0
+s,2023-01-01, das Auto fahrt ruckwarts in die Barrikade,The car drives back into the barricade,Araba barikata geri dï¿½nï¿½yor,0.0
+w,2023-01-01, die Zusammenfassung,the abstract,soyut,0.0
+w,2023-01-01, ausgerauben,to exhale,nefes vermek,0.0
+w,2023-01-01, lï¿½sen,to solve,ï¿½ï¿½zmek iï¿½in,0.0
+s,2023-01-01, er loest den Fall,is lost that fall,o sonbaharda kayboldu,0.0
+w,2023-01-01, der Fall,the case,dava,0.0
+w,2023-01-01, das Zelt,the tent,ï¿½adï¿½r,0.0
+w,2023-01-01, die Blaskapelle,The brass band,Pirinï¿½ Bant,0.0
+w,2023-01-01, verkleiden ,disguise,kï¿½lï¿½k deï¿½iï¿½tirmek,0.0
+w,2023-01-02, wolken,clouds,bulutlar,0.0
+w,2023-01-02,taub,"deaf,numb",saÄŸÄ±r,0
+w,2023-01-02, besondere,special,Ã¶zel,0.0
+w,2023-01-02, die Taube,the Dove,Gï¿½vercin,0.0
+s,2023-01-03, ich schicke dir zwei Vögel aus den Wolekn die sollen dir helfen,I'll send you two birds from the Wolekn that should help you,Sana Wolen'den sana yardýmcý olacak iki kuþ göndereceðim,0
+s,2023-01-03, ich schicke dir zwei Vögel aus den Wolken die sollen dir helfen,I'll send you two birds from the clouds that should help you,Size yardýmcý olacak bulutlardan iki kuþ göndereceðim,0
+w,2023-01-03, wölken,wölken,Wölken,0
+w,2023-01-03, die Wolke,the clouds,bulutlar,0
+w,2023-01-03, nun,nun,rahibe,0
+w,2023-01-03, das Grab,the grave,mezar,0
+w,2023-01-03, Mutters Grab,Mutters Grab,Mutters Grab,0
+w,2023-01-03, die Besonderheit,the peculiarity,tuhaflýk,0
+w,2023-01-03, der Prýnz,the prince,Prens,0
+w,2023-01-03, das Fest,the party,Parti,0
+w,2023-01-03, das Schloss,The castle,Kale,0
+w,2023-01-03, einladen,invite,Davet et,0
+w,2023-01-03, eingeladen,invited,davetli,0
+w,2023-01-03, heiraten,marry,evlenmek,0
+w,2023-01-03, gurren,Gurren,Gurren,0
+w,2023-01-03, der Ball,the ball,top,0
+w,2023-01-03, die Leute,the people,insanlar,0
+w,2023-01-03, fröhlich,Happy,Mutlu,0
+s,2023-01-03, wie gern würde ich auch hingehen,How I would like to go there too,Ben de oraya nasýl gitmek isterim,0
+w,2023-01-03, der Ballsaal,The ballroom,Balo Salonu,0
+w,2023-01-03, die Stiefmutter,the stepmother,Üvey anne,0
+w,2023-01-03, nur dieses eine mal,Only this one time,Sadece bu bir sefer,0
+w,2023-01-03, überlgen,overgrowth,aþýrý büyüme,0
+w,2023-01-03, haesslich,ugly,çirkin,0
+s,2023-01-03, das waren sie Schwestern,They were sisters,Kýz kardeþlerdi,0
+s,2023-01-03, halt den Mund,shut your mouth,kapa çeneni,0
+s,2023-01-03, sie sollen heute schön sein für den Prinzen,You should be beautiful for the prince today,Bugün prens için güzel olmalýsýn,0
+s,2023-01-03, dann fliegen sie weg,Then they fly away,Sonra uçarlar,0
+s,2023-01-03, na toll,the toll,paralý,0
+s,2023-01-03, Ýhr seid ja wirklich gute Freundinnen,ýhr are really good friends,Ihr gerçekten iyi arkadaþlar,0
+s,2023-01-03, ihr seid ja wirklich gute Freundinnen,You are really good friends,Sen gerçekten iyi arkadaþsýn,0
+s,2023-01-03, sie muss nach Hause sie muss nach das Geschirr abwaschen,She has to go home she has to wash after the dishes,Yemeklerden sonra yýkamasý gereken eve gitmesi gerekiyor,0
+w,2023-01-03, das Geschirr,the dishes,bulaþýklar,0
+w,2023-01-03, abwaschen,wash off,yýkayýp temizlemek,0
+w,2023-01-03, aufraeumen,aufraeumen,Aufraeumen,0
+w,2023-01-03, aufräumen,to clean up,temizlemek,0
+w,2023-01-03, die Taube,the Dove,Güvercin,0
+w,2023-01-03, das Kleid,the dress,elbise,0
+s,2023-01-03, das Lina je gesehen hat,The Lina has ever seen,Lina þimdiye kadar gördü,0
+s,2023-01-03, sie hat noch nie so viele elegante Mennschen gesehen wie hier im Schloss,She has never seen as many elegant people as here in the castle,Kalede burada olduðu kadar zarif insan görmedi,0
+w,2023-01-03, das Schloss,The castle,Kale,0
+w,2023-01-03, reden,rode,Binmek,0
+w,2023-01-03, lachen,laugh,kahkaha,0
+s,2023-01-03, Tausend Kerzen brennen,Burn a thousand candles,Bin mum yakmak,0
+w,2023-01-03, brennen,burn,yakmak,0
+w,2023-01-03, verbeugen,fright,korku,0
+w,2023-01-03, die Dame,the Lady,Bayan,0
+s,2023-01-03, Ich habe gar nicht gedacht dass jemand mit mir tanzen will,I didn't even think someone wanted to dance with me,Birinin benimle dans etmek istediðini bile düþünmedim,0
+w,2023-01-03, ansehen,look at,bakmak,0
+s,2023-01-03, sicher wissen alle,Everyone knows surely,Herkes Kesinlikle Bilir,0
+w,2023-01-03, eýgentlich,actually,aslýnda,0
+w,2023-01-03, eigentlich,actually,aslýnda,0
+s,2023-01-03, keine feine Dame,No fine lady,Ýyi bayan yok,0
+w,2023-01-03, fein,fein,fein,0
+w,2023-01-03, peinlich,awkward,garip,0
+w,2023-01-03, überhaupt,at all,hiç,0
+s,2023-01-03, jetzt ist es ihr peinlich dass sie überhaupt gekommen ist,Now it is embarrassed that she came at all,Þimdi onun hiç gelmesi utanýyor,0
+s,2023-01-03, als die Musik zu Ende ist,When the music is over,Müzik bittiðinde,0
+s,2023-01-03, darf ich den naechstem Tanz mit der schönen Damen tanzen,May I dance the next dance with the beautiful ladies,Bir sonraki dansý güzel bayanlarla dans edebilir miyim,0
+s,2023-01-03, naturlich wie sie wünschen,Of course as you wish,Tabii ki dilediðin gibi,0
+s,2023-01-03, geht wieder,works again,Tekrar Çalýþýr,0
+w,2023-01-03, überraschen,to surprise,þaþýrtmak,0
+s,2023-01-03, ich will am liebsten den ganzen Abend mit ihnen tanzen,I want to dance with them all evening,Bütün akþam onlarla dans etmek istiyorum,0
+w,2023-01-03, der Saal,the hall,salon,0
+w,2023-01-03, der Witz,the joke,þaka,0
+s,2023-01-03, aber bevor sie etwas sagen kann faengt die Nusik wieder an und der Tanz geht weiter,"But before she can say something, the music faith again and the dance continues","Ama bir þey söylemeden önce, müzik inancý tekrar ve dans devam ediyor",0
+w,2023-01-03, das Miteinander,the coexistence,Bir arada yaþama,0
+s,2023-01-03, nur sehr ungern verabschieden sie sich am Ende,They are very reluctant to say goodbye in the end,Sonunda veda etmek için çok isteksizler,0
+w,2023-01-03, nötig,necessary,gerekli,0
+s,2023-01-03, wo dieses schöne Maedchen wohnt,Where this beautiful girl lives,Bu güzel kýzýn yaþadýðý yer,0
+w,2023-01-03, wiederfinden,find back,geri bul,0
+w,2023-01-03, der Friedhof,the cemetery,Mezarlýk,0
+s,2023-01-03, als sie zu ihrem Haus kommen laeuft Lina schnell weg und verschwinder im dunkeln Garten,"When you get to your house, Lina quickly get away and swinders in the dark garden",Evinize geldiðinizde Lina hýzla kaçýn ve karanlýk bahçede swinders,0
+s,2023-01-03, warten sie,Are you waiting,Bekliyor musun,0
+s,2023-01-03, ich weiss ja gar nichts über sie,I don't know anything about her,Onun hakkýnda hiçbir þey bilmiyorum,0
+s,2023-01-03, er klopft an der Haustür,He knocks on the front door,Ön kapýyý çalýyor,0
+s,2023-01-03, Linas Vater steht im schlafanzug,Lina's father is in pajamas,Lina'nýn babasý pijamalarda,0
+w,2023-01-03, der Anzug,the suit,takým elbise,0
+w,2023-01-03, der Schlafanzug,The pajamas,Pijama,0
+s,2023-01-03, was kann ich für sie tun,what can I do for you,Sizin için ne yapabilirim,0
+w,2023-01-03, tun,yet,hala,0
+s,2023-01-03, der Prinz sieht ihn fragend an,The prince looks at him questioningly,Prens ona sorgulayarak bakýyor,0
+s,2023-01-03, Wie können ja mal nachsehen,How can you look,Nasýl bakabilirsin,0
+w,2023-01-03, nachsehen,check,Kontrol,0
+s,2023-01-03, sie gehen durch das ganze Haus aber niemand ist da,You walk through the whole house but nobody is there,Bütün evin içinden geçiyorsun ama kimse orada deðil,0
+s,2023-01-03, wie immer,as always,her zaman olduðu gibi,0
+s,2023-01-03, darf ich jetzt wieder schlafen gehen,May I go to sleep now,Þimdi uyuyabilir miyim,0
+s,2023-01-03, aber sie ist doch hier in der Garten,But she's here in the garden,Ama o bahçede burada,0
+s,2023-01-03, am naechsten Abend,on the next evening,Ertesi akþam,0
+s,2023-01-03, schöner als am Tag favor,Beautiful than on the day,Günden daha güzel,0
+w,2023-01-03, davor,before,önceki,0
+s,2023-01-03, schöner als am Tag davor,Beautiful than the day before,Bir önceki günden güzel,0
+s,2023-01-03, wieder geht Aschenputtel zum Ball,Cinderella goes back to the ball,Külkedisi topa geri döner,0
+w,2023-01-03, das Aschenputtel,The Cinderella,Külkedisi,0
+s,2023-01-03, dritten Tag sind Rosa und Bella sehr nervös,Third day are pink and Bella very nervous,Üçüncü gün pembe ve Bella çok gergin,0
+w,2023-01-03, nervös,nervous,gergin,0
+w,2023-01-03, fremden Frau,stranger,yabancý,0
+s,2023-01-03, Heute nüssen sie besumders schön sein,Today they have to be particularly beautiful,Bugün özellikle güzel olmalýlar,0
+s,2023-01-03, hilf mir beim Anziehen,Help me dress,Giyinmeme yardým et,0
+w,2023-01-03, anziehen,attract,cezbetmek,0
+s,2023-01-03, pass doch auf du dummes Ding,Place you stupid things,Sana aptalca þeyler koy,0
+w,2023-01-03, das Ding,the thing,Þey,0
+w,2023-01-03, dumm,dumb,sersem,0
+s,2023-01-03, ich muss heute die schçnste sein,I have to be the most beautiful today,Bugün en güzel olmalýyým,0
+s,2023-01-03, und wieder laeuft sie am Ende weg,And again she lies away at the end,Ve yine sonunda yatýyor,0
+s,2023-01-03, Der Prinz hat noch gar nicht ihnen getanzt immer nur mit dieser fremden Frau,The prince has not yet danced them only with this strange woman,Prens onlarý henüz sadece bu garip kadýnla dans etmedi,0
+w,2023-01-03, die Braut,the bride,gelin,0
+s,2023-01-03, morgen ist eine von ýhnen seine Braut,Tomorrow is one of ýhnen his bride,Yarýn ýhnen'den biri onun gelini,0
+s,2023-01-03, morgen ist von ihnen seine Braut,Tomorrow is his bride from them,Yarýn onlardan gelini,0
+s,2023-01-03, staunen,be amazed,hayret etmek,0
+w,2023-01-03, das Kleid ,the dress,elbise,0
+w,2023-01-03, fasen,phase,evre,0
+w,2023-01-03, fast,fast,hýzlý,0
+s,2023-01-03, sehe ich fast aus wie eine Prinzessin,I almost look like a princess,Neredeyse bir prenses gibi görünüyorum,0
+w,2023-01-03, der Gast,the guest,misafir,0
+s,2023-01-03, sie sieht die Menschen im Licht der tausend Kerzen,She sees people in the light of the thousand candles,Bin mum ýþýðýnda insanlarý görüyor,0
+w,2023-01-03, die Kerze,the candle,mum,0
+w,2023-01-03, hübsch,pretty,güzel,0
+s,2023-01-03, was habe ich mir nur gedacht,What did I think,Ne düþündüm,0
+s,2023-01-03, ich bin ja so dumm,I'm so stupid,çok aptalým,0
+w,2023-01-03, weggehen,walk away,uzaklaþmak,0
+s,2023-01-03, da sieht der Prinz sie,Then the prince sees her,Sonra prens onu görür,0
+w,2023-01-03, lassen,leave,ayrýlmak,0
+s,2023-01-03, ých warte schon die ganze Zeit auf sie,ých has been waiting for you all the time,Ben her zaman seni bekliyor,0
+w,2023-01-03, bçse,Bçse,Bükülme,0
+w,2023-01-03, böse,evil,fenalýk,0
+w,2023-01-03, ansehen,look at,bakmak,0
+w,2023-01-03, reden,rode,Binmek,0
+s,2023-01-03, jeder Ball ist irgendwann zu Ende ,Every ball will end at some point,Her top bir noktada bitecek,0
+w,2023-01-03, irgendwann,Sometime,Bazen,0
+w,2023-01-03, allein,alone,yalnýz,0
+s,2023-01-03, auf der grossen Treppe vor dem Schloss,On the large stairs in front of the castle,Kalenin önündeki büyük merdivenlerde,0
+s,2023-01-03, zu den Mýllýonen Sternen,To the Mýllýon stars,Milýon yýldýzlarýna,0
+w,2023-01-03, vorbei,over,üzerinde,0
+w,2023-01-03, der Traum,the dream,rüya,0
+w,2023-01-03, der Stern,the star,Yýldýz,0
+w,2023-01-03, das Erinnern,Reminiscent,Hatýrlatan,0
+s,2023-01-03, wie wir uns an deö Haenden gehalten und in die Augen gesehen haben,How we kept each other and looked into our eyes,Birbirimizi nasýl tuttuk ve gözlerimize baktýk,0
+w,2023-01-03, weggelaufen,Run away,Kaçmak,0
+w,2023-01-03, vorbereitet,prepared,hazýrlanmýþ,0
+w,2023-01-03, das Pech,The bad luck,Kötü Þans,0
+w,2023-01-03, gestrichen,painted,boyalý,0
+s,2023-01-03, achtet nþcht darauf,pay attention to it,Buna dikkat et,0
+s,2023-01-03, achtet nicht darauf,Don't pay attention to it,Buna dikkat etmeyin,0
+w,2023-01-03, verlieren,lose,kaybetmek,0
+s,2023-01-03, und den halt er sich nun,And now he's stopping,Ve þimdi duruyor,0
+s,2023-01-03, wenn er passt habe ich meine Braut gefunden,When it fits I found my bride,Uygunken gelinimi buldum,0
+s,2023-01-03, ich bringe ihn zu meinen Töchtern,I take him to my daughters,Onu kýzlarýma götürüyorum,0
+w,2023-01-03, zwerst,dwarf,cüce,0
+w,2023-01-03, die Tochter,the daughter,kýz,0
+w,2023-01-03, das Augen,the eyes,gözler,0
+w,2023-01-03, die Zehe,the toe,ayak parmaðý,0
+s,2023-01-03, für ihre grosse Zehe ist nicht genug Platz,There is not enough space for her big toe,Ayak baþparmaðý için yeterli alan yok,0
+w,2023-01-03, genug,enough,yeterli,0
+w,2023-01-03, der Platz,the space,boþluk,0
+w,2023-01-03, abschneiden,cut off,ayýrmak,0
+s,2023-01-03, deine Diener können dich tragen,Your servants can wear you,Hizmetkarlarýnýz seni giyebilir,0
+w,2023-01-03, der fuss,the foot,ayak,0
+w,2023-01-03, der Dieenr,The Dieenr,Dieenr,0
+w,2023-01-03, der Diener,the servant,hizmetçi,0
+w,2023-01-03, zeigt,shows,þov,0
+w,2023-01-03, zeigen,demonstrate,göstermek,0
+w,2023-01-03, das Grab,the grave,mezar,0
+s,2023-01-04, er hat gerade von grossen Knochen,He just has big bones,Sadece büyük kemikleri var,0
+w,2023-01-04, der Kncohen,the bone,kemik,0
+w,2023-01-04, träumen ,dream,rüya,0
+w,2023-01-04, ärgern ,annoy,sinir etmek,0
+w,2023-01-04, beißen ,bite,lokma,0
+w,2023-01-04, das Bein,the leg,bacak,0
+w,2023-01-04, der Hinterfuß,The hind foot,Arka ayak,0
+s,2023-01-04, vom Dach schreit der Hahn extra laut,The rooster screams out of the roof,Horoz çatýdan çýðlýk atýyor,0
+w,2023-01-04, das Dach,the roof,çatý,0
+s,2023-01-04, der Rauber weiss nicht mehr wo oben oder unten ist wo links oder rechts,The Rauber no longer knows where to be up or down where on the left or right,Rauber artýk solda veya saðda nerede yukarý veya aþaðý olacaðýný bilmiyor,0
+w,2023-01-04, der Räuber,the robber,soyguncu,0
+s,2023-01-05, er lauft und lauft bis er bei seinen Rauberfreunden ist,He runs and runs until he is with his Rauberfreunde,Rauberfreunde ile olana kadar koþar ve koþar,0
+w,2023-01-05, die Hexe,the witch,cadý,0
+w,2023-01-05, zerkratzen,scratch,kaþýmak,0
+w,2023-01-05, das Messer,the knife,býçak,0
+w,2023-01-05, gestochen,stung,bükmek,0
+w,2023-01-05, auf dem Hof,in the yard,bahçede,0
+w,2023-01-05, ein schwarzes Monster,A black monster,Siyah bir canavar,0
+w,2023-01-05, das Monster,the monster,canavar,0
+w,2023-01-05, am schlimmsten,worst,en kötüsü,0
+w,2023-01-05, rufen,call,Arama,0
+w,2023-01-05, gerufen,called,isminde,0
+w,2023-01-05, der Dieb,the thief,hýrsýz,0
+w,2023-01-05, sondern,Then what,Sonra ne,0
+w,2023-01-05, am schoenen Sommerabenden,On the nice summer evenings,Güzel yaz akþamlarý,0
+w,2023-01-05, das Rotkäppchen,The Little Red Riding Hood,Küçük kýrmýzý sürüþ baþlýðý,0
+s,2023-01-05, jeden mag sie aber ganz besonders lieb hat die Grossmutter das Kind,But everyone likes to love the grandmother of the child,Ama herkes çocuðun büyükannesini sevmeyi sever,0
+w,2023-01-05, das kind,the child,çocuk,0
+w,2023-01-05, die Kappe,the cap,þapka,0
+w,2023-01-05, tragen,carry,Taþýmak,0
+s,2023-01-05, nennen sie alle nur Rotkaeppchen,All name all just red -kaeppchen,Hepsi Just Red -Kaeppchen,0
+w,2023-01-05, nennen,to name,adýna,0
+w,2023-01-05, eineges Tages,one day,Bir gün,0
+w,2023-01-05, werden,will,irade,0
+s,2023-01-05, sprich mit Keinem Fremden,talk to no stranger,Yabancý ile konuþ,0
+w,2023-01-05, fremden,strange,garip,0
+w,2023-01-05, die Fremde,the stranger,yabancý,0
+w,2023-01-05, gefährlich,dangerous,tehlikeli,0
+w,2023-01-05, nämlich,namely,yani,0
+s,2023-01-05, ich passe schon auf,I'm already taking care of,Zaten ilgileniyorum,0
+w,2023-01-05, aufpassen,watch out,dikkat et,0
+w,2023-01-05, der Vogel,the bird,kuþ,0
+w,2023-01-05, freuen,looking forward,ileriye dönük,0
+w,2023-01-05, bei der Oma,at the Grandma,Büyükannede,0
+w,2023-01-05, der Wolf,the wolf,Kurt,0
+s,2023-01-05, da steht plötzlich der wolf vor ihr,Suddenly the wolf stands in front of her,Aniden kurt onun önünde duruyor,0
+w,2023-01-05, der Kuchen,the cake,kek,0
+w,2023-01-05, ein liebes Maedchen,A dear girl,Sevgili Bir Kýz,0
+s,2023-01-05, sie wird ganz rot,it becomes completely red,tamamen kýrmýzýlaþýyor,0
+s,2023-01-05, wirklich ein rettes Maedchen,Really a rescue Maedchen,Gerçekten bir kurtarma maedchen,0
+w,2023-01-05, retten ,The Court,Mahkeme,0
+w,2023-01-05, riechen,smell,koku,0
+w,2023-01-05, das Fressem,The eating,Yeme,0
+w,2023-01-05, das Fressen,the food,yemek,0
+w,2023-01-05, später,later,sonra,0
+w,2023-01-05, erst später,later,sonra,0
+w,2023-01-05, gleich,same,ayný,0
+s,2023-01-05, sei klug friss die Kleine erst später,Be cleverly eat the little one later,Küçük olaný daha sonra akýllýca yiyin,0
+s,2023-01-05, wenn du es richtig machst kannst du beide bekommen die Alte und das Madchen,If you do it right you can both get the old and the girl,Eðer doðru yaparsan hem yaþlý hem de kýzý alabilirsiniz,0
+s,2023-01-05, hol sie die doch,get them,yakalayýn þunlarý,0
+w,2023-01-05, holen,to fetch,getirmek için,0
+w,2023-01-05, sicher ,secure,kesinlikle,0
+s,2023-01-05, deine Grossmutter freut sich sicher wenn du ihr Blumen mitbringst,Your grandmother is sure to be happy if you bring her flowers,Çiçeklerini getirirsen büyükannen mutlu olacak,0
+w,2023-01-05, pflücken,pick,seçmek,0
+w,2023-01-05, abgehen,go off,gidip gelmek,0
+w,2023-01-05, kaum,races,yarýþlar,0
+s,2023-01-05, tiefer im wald,deeper in the forest,ormanda daha derin,0
+w,2023-01-05, tiefer,deeper,Daha derine,0
+s,2023-01-05, die sieht noch veil schöner aus sie lauft hin,It looks even nicer she runs down,Kaçýyor daha da güzel görünüyor,0
+w,2023-01-05, schnell,fast,hýzlý,0
+w,2023-01-05, klopft an der Tür,knock on the door,kapýyý çalmak,0
+w,2023-01-05, die Stimmer,The vitmer,Hitmer,0
+w,2023-01-05, die Stimme,the voice,ses,0
+w,2023-01-05, höher,higher,daha yüksek,0
+s,2023-01-05, Halt du bist ja gar nicht,You're not at all,Sen hiç deðilsin,0
+s,2023-01-05, mehr kann die alte Frau nicht sagen du hat der Wolf sie schon gefressen,The old woman can't say more you have already eaten her,Yaþlý kadýn onu zaten yediðin daha fazlasýný söyleyemez,0
+w,2023-01-05, trocken,dry,kuru,0
+w,2023-01-05, ein bisschen trocken,A little dry,Biraz kuru,0
+w,2023-01-05, besser als nicht,better than nothing,hiç yoktan iyidir,0
+w,2023-01-05, anziehen,attract,cezbetmek,0
+s,2023-01-05, Warte auf das Dessert,Wait for the dessert,Tatlý için bekle,0
+w,2023-01-05, das Dessert,the dessert,tatlý,0
+w,2023-01-05, gesammelt,collected,toplanmýþ,0
+s,2023-01-05, sammeln,collect,toplamak,0
+s,2023-01-05, Bald ist sie bei Grossmutters Haus,Soon she will be at Grossmutter's house,Yakýnda Grossmutter'ýn evinde olacak,0
+s,2023-01-05, Die ist doch sonst immer zu,Otherwise it is always closed,Aksi takdirde her zaman kapalýdýr,0
+w,2023-01-05, vorsichtig,careful,dikkatli olmak,0
+w,2023-01-05, die Mütze,the cap,þapka,0
+w,2023-01-05, das Tief,the deep,derin,0
+w,2023-01-05, ziehen,drag,sürüklemek,0
+w,2023-01-05, das Ohr,the ear,kulak,0
+w,2023-01-05, die Uhr,the clock,saat,0
+s,2023-01-05, ich dich besse hören kann,I can hear you better,Seni daha iyi duyabiliyorum,0
+w,2023-01-05, äugen ,Electory,Seçme,0
+w,2023-01-05, das Auge,the eye,göz,0
+w,2023-01-05, lachen,laugh,kahkaha,0
+w,2023-01-05, einzigen Bissen,only bite,Sadece ýsýrýk,0
+w,2023-01-05, einzig,only,bir tek,0
+w,2023-01-05, der Bissen,the bite,Isýrýk,0
+s,2023-01-05, das hast du gut gemacht,You did well,Ýyi yaptýn,0
+s,2023-01-05, die süsse Kleine war besonders lecker,The sweet little one was particularly tasty,Tatlý küçük olan özellikle lezzetliydi,0
+s,2023-01-05, er legt sich wieder ins Bett,He goes back to bed,Yataða geri dönüyor,0
+w,2023-01-05, ads Bett,ads Bett,Reklamlar Bett,0
+w,2023-01-05, legen,place,yer,0
+w,2023-01-05, ausruhen,relax,rahatlamak,0
+w,2023-01-05, zumachen,close,kapat,0
+s,2023-01-05, er macht die Augen zu,He closes his eyes,Gözlerini kapatýyor,0
+w,2023-01-05, der Jaeger,the hunter,Avcý,0
+s,2023-01-05, ein wenig spaeter geht der Jaeger am Haus vorbei,The Jaeger passes the house a little later,Jaeger evi biraz sonra geçer,0
+w,2023-01-05, böse,evil,fenalýk,0
+w,2023-01-05, schlimmes,bad,kötü,0
+s,2023-01-05, was ist denn hier loss,What's going on here,Burada neler oluyor,0
+w,2023-01-05, der Löss,The loess,Loess,0
+s,2023-01-05, Im Haus hört er jemanden laut schnarchen,In the house he hears someone loudly snoring,Evde yüksek sesle horlayan birini duyar,0
+w,2023-01-05, schnarchen,snoring,horlama,0
+s,2023-01-05, er geht leise,He goes quietly,Sessizce gidiyor,0
+s,2023-01-05, habe ich dich endlich,I finally have you,Sonunda sana var,0
+w,2023-01-05, erschiessen,shoot,film çekmek,0
+w,2023-01-05, bewegt,emotional,duygusal,0
+w,2023-01-05, bewegen,move,hareket,0
+w,2023-01-05, der Bauch,the belly,karýn,0
+w,2023-01-05, aufschneiden,cut open,kesip açmak,0
+w,2023-01-05, heraus,out,dýþarý,0
+s,2023-01-05, schrecklich dunkel im Bauch,terribly dark in the stomach,Midede çok karanlýk,0
+s,2023-01-05, sie nimmt ihre Enkelin in die Arme,She takes her granddaughter in her arms,Torunu kollarýna alýyor,0
+w,2023-01-05, die Enkelin,the granddaughter,Torun,0
+w,2023-01-05, der Enkel,there simple,orada basit,0
+w,2023-01-05, der Stein,the stone,taþ,0
+w,2023-01-05, nähen,sew,dikmek,0
+s,2023-01-05, dann näht der Jager ihn wieder zu,Then the hunter sews him again,Sonra avcý onu tekrar dikti,0
+w,2023-01-05, zunähen,to sew,dikmek,0
+w,2023-01-05, aufwachen,awaken,uyanmak,0
+w,2023-01-05, einen vollen Bauch,a full stomach,Tam Mide,0
+w,2023-01-05, denken,think,düþünmek,0
+w,2023-01-05, gedacht,thought,düþünce,0
+w,2023-01-05, schwer,heavy,aðýr,0
+w,2023-01-05, der Durst,the thirst,susuzluk,0
+w,2023-01-05, der Brunnen,the fountain,Çeþme,0
+w,2023-01-05, sterben,to die,ölmek,0
+s,2023-01-05, sie bleiben doch ein bisschen,You stay a bit,Biraz kalýyorsun,0
+w,2023-01-05, tot,until,a kadar,0
+w,2023-01-05, erwaschsen,get up,kalkmak,0
+w,2023-01-05, das Erwachsensein,The adulthood,Yetiþkinlik,0
+w,2023-01-05, hiesse Schokolade,Name chocolate,Adý Çikolata,0
+w,2023-01-05, bekommen,receive,almak,0
+s,2023-01-05, raum mein Zimmerauf,space my room,Uzay benim odam,0
+s,2023-01-05, so geht es den ganzen Tag,This is how it works all day,Bütün gün böyle çalýþýyor,0
+w,2023-01-05, früher,previously,Önceden,0
+w,2023-01-05, ein kleines Madchen,A little girl,Küçük bir kýz,0
+w,2023-01-05, krank geworden,became ill,hasta olmak,0
+w,2023-01-05, werden,will,irade,0
+w,2023-01-05, sterben,to die,ölmek,0
+w,2023-01-05, heiraten,to marry,evlenmek,0
+w,2023-01-05, die Tochter,the daughter,kýz,0
+w,2023-01-05, mitbringen,bring along,beraberinde getirmek,0
+w,2023-01-05, zusehen,watch,izlemek,0
+w,2023-01-05, die Asche,the ash,kül,0
+s,2023-01-05, sie muss in der Kirche schlafen,She has to sleep in the church,Kilisede uyumasý gerekiyor,0
+w,2023-01-05, die Kirche,the church,kilise,0
+w,2023-01-05, die Küche,the kitchen,mutfak,0
+w,2023-01-05, der Schmutz,the dirt,kir,0
+w,2023-01-05, schmutzig,dirty,kirli,0
+w,2023-01-05, überall,all over,baþtan,0
+w,2023-01-05, lachen,laugh,kahkaha,0
+s,2023-01-05, die Madchen tanzen um sie herum und lachen,The girls dance around them and laugh,Kýzlar etraflarýnda dans eder ve gülür,0
+w,2023-01-05, reisen,to travel,seyahat etmek,0
+w,2023-01-05, die Reise,the trip,yolculuk,0
+w,2023-01-05, auf Reisen,to travel,seyahat etmek,0
+s,2023-01-05, selten zu Hause,rarely at home,nadiren evde,0
+w,2023-01-05, selten,Rare,Nadir,0
+w,2023-01-05, das Geheimnis,the secret,sýr,0
+w,2023-01-05, der Tod,the death,ölüm,0
+s,2023-01-05, ich sterbe bald,I'll die soon,Yakýnda öleceðim,0
+w,2023-01-05, lassen,to let,izin vermek,0
+w,2023-01-05, allein,alone,yalnýz,0
+w,2023-05-19, buch,buch,buch,0
+w,2023-05-21, das buch,the book,kitap,0
+w,2023-05-21, allein,alone,yalnız,0
