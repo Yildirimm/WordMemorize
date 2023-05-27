@@ -21,17 +21,17 @@ translator = Translator()
 my_word = Wo.word_class
 last_date = str(date.today())
 
-# TODO: ask for word input OR word_memorize
+# ask for word input OR word_memorize
 x = str(input("Would you like to add a word or memorize a word, press [a] or [m]\n"))
 
 
 if x == "a":
     print('\n you pressed a\n')
 
-    # TODO: if INPUT, then use INPUT operations
-    # TODO: save the file
+    # if INPUT, then use INPUT operations
+    # save the file
     while True:
-        input_type, input_word = str(input("the word as word or sentence [w,s]: ")).split(",")
+        input_type, input_word = str(input("the input as word or sentence [w,s]: ")).split(",")
         print(type(input_word), input_word)
 
         source_lang = translator.detect(input_word).lang
@@ -51,12 +51,12 @@ if x == "a":
         if b == "b":
             break
         else:
-            print('wo.read_the_record(10)')
+            print('Unexpected error! Couldn\'t break the input loop')
 
 elif x == "m":
     print('\n you pressed m\n')
-    # TODO: if MEMORIZE, then use memorize operations
-    # TODO: save the rows of file
+    # if MEMORIZE, then use memorize operations
+    # save the rows of file
 
     data = pd.read_csv(file_name, encoding='unicode_escape')
     the_size = round(len(data)/20)
@@ -79,7 +79,9 @@ elif x == "m":
         # ask user for input
         the_input = str(input(f"\n{the_word} means in English what? \n({the_en})"))
 
-        if the_en == the_input:
+        if the_en.strip().casefold() == the_input.strip().casefold():
+            print('Correct!')
+            print(data.loc[number,:])
             the_count += 1
             the_count = str(the_count)
             the_date = last_date
@@ -87,8 +89,24 @@ elif x == "m":
 
             # TODO: Record the counts to the csv file (currently missing)
             # data.to_csv(file_name, index=False)
+            data.loc[number, ['correct_count']] = the_count
+            data.loc[number, ['last_date']] = the_date
+
+            my_word.update_the_record(idx=number, row=data.loc[number,:])
+
+            print(data.loc[number,:])
+
         else:
             print('You entered it wrong')  # do nothing
+            continue
+
+
+# TODO: Get words from websites by requests
+# TODO: Make different files for different word groups
+# TODO: Record word score and update the file update function
+# TODO: get words by image processing
+
+
 
 '''
     op = open(file_name, "r")

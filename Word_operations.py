@@ -24,6 +24,9 @@ class word_class:
         self.correct_count = correct_count
 
     def save_to_file(self):
+        '''
+        Saves the given word to a file
+        '''
         word_record = [self.word_cat, self.last_date, self.word_itself,
                        self.trans1, self.trans2, self.correct_count]
 
@@ -37,51 +40,44 @@ class word_class:
 
             writer.writerow(word_record)
 
-        print("saved to file")
+        print("Saved to file")
 
     def read_the_record(self, num):
         '''
-        with open(file=file_name) as f_r:
-            reader_r = csv.reader(f_r)
-            interested_row = [row for idx, row in enumerate(reader_r) if idx == num]
+        Gets num parameter and returns the regarding row
+        :param num:
+        :return: row of file [pandas]
+        '''
 
-            return interested_row'''
-
-        print('read the records')
+        print('Read the records')
         data = pd.read_csv(file_name)
         interested_row = data.iloc[num, :]
+
         return interested_row
 
     def update_the_record(self, idx, row):
-        '''with open(file_name, 'w') as output:
-            writer = csv.DictWriter(output, fieldnames=header)
-            writer.writerow({'word_cat': the_row[0][0],
-                             'last_date': [0][1], 'word_itself': [0][2], 'en': [0][3],
-                             'tr': [0][4], 'correct_count': [0][5]})
-
-        with open(file_name, 'w') as upd:
-            upd.writelines(the_row)
+        '''
+        Takes a specific row and id of it and updates the recording
+        :param idx: id of a row
+        :param count:
+        :param date:
+        :return: None
         '''
 
         with open(file_name, 'r', encoding='utf-8') as csvfile:
-            with open(file_name, 'w', encoding='utf-8') as tempfile:
-                reader = csv.DictReader(csvfile, fieldnames=header)
-                writer = csv.DictWriter(tempfile, fieldnames=header)
+              with open(file_name, 'w', encoding='utf-8') as tempfile:
+                  reader = csv.DictReader(csvfile, fieldnames=header)
+                  writer = csv.DictWriter(tempfile, fieldnames=header)
 
-                for row in reader:
-                    # if row['ID'] == str(stud_ID):
-                    #    print('updating row', row['ID'])
-                    #    row['Name'], row['Course'], row['Year'] = stud_name, stud_course, stud_year
-                    # row = {'ID': row['ID'], 'Name': row['Name'], 'Course': row['Course'], 'Year': row['Year']}
-                    # writer.writerow(row)
-                    row = {"word_cat": row["word_cat"], "last_date": row["last_dat"],
-                           "word_itself": row["word_itself"], "en": row["en"],
-                           "tr": row["tr"], "correct_count": row["correct_count"]}
-                    writer.writerow(row)
+                  for row in reader:
+                      row = {"word_cat": row["word_cat"], "last_date": row["last_date"],
+                             "word_itself": row["word_itself"], "en": row["en"],
+                             "tr": row["tr"], "correct_count": row["correct_count"]}
+                      writer.writerow(row)
 
         shutil.move(tempfile.name, file_name)
 
-        print('successfully updated\n')
+    print('successfully updated\n')
 
     def is_exist(self, word_to_check):
         '''
@@ -98,9 +94,11 @@ class word_class:
                 if splits[2].strip().casefold() == word_to_check.strip().casefold():  # case insensitive comparison
                     #print(splits[2].strip().casefold(),
                     #      word_to_check.strip().casefold())
-                    print('I have found the word\n')
+                    print('This word exists\n')
                     print('Add another word')
                 else:
                     print('the word doesnt exist\n')
+                    print("You can add this word")
+
 
 
