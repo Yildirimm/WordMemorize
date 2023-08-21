@@ -7,10 +7,10 @@ import pandas as pd
 from tempfile import NamedTemporaryFile
 import shutil
 
-file_name = "words.csv"
+file_name = "word_files/words.csv"
 file_name2 = "words_up.csv"
 header = ["word_cat", "last_date", "word_itself", "en", "tr", "correct_count"]
-
+ENCODING = "utf-32"
 
 class word_class:
 
@@ -32,7 +32,7 @@ class word_class:
 
         file_exists = os.path.isfile(file_name)
 
-        with open(file_name, "a", newline="", encoding='utf-8') as f:
+        with open(file_name, "a", newline="", encoding=ENCODING) as f:
             writer = csv.writer(f)
 
             if not file_exists:
@@ -50,12 +50,12 @@ class word_class:
         '''
 
         print('Read the records')
-        data = pd.read_csv(file_name)
+        data = pd.read_csv(file_name, encoding=ENCODING)
         interested_row = data.iloc[num, :]
 
         return interested_row
 
-    def update_the_record(self, idx, row):
+    def update_the_record(self, idx, data_frame):
         '''
         Takes a specific row and id of it and updates the recording
         :param idx: id of a row
@@ -64,20 +64,10 @@ class word_class:
         :return: None
         '''
 
-        with open(file_name, 'r', encoding='utf-8') as csvfile:
-              with open(file_name, 'w', encoding='utf-8') as tempfile:
-                  reader = csv.DictReader(csvfile, fieldnames=header)
-                  writer = csv.DictWriter(tempfile, fieldnames=header)
+        print(f"updated row is {data_frame.loc[idx,:]}")
+        data_frame.to_csv(file_name, index=False, encoding=ENCODING)
 
-                  for row in reader:
-                      row = {"word_cat": row["word_cat"], "last_date": row["last_date"],
-                             "word_itself": row["word_itself"], "en": row["en"],
-                             "tr": row["tr"], "correct_count": row["correct_count"]}
-                      writer.writerow(row)
-
-        shutil.move(tempfile.name, file_name)
-
-    print('successfully updated\n')
+        print('successfully updated\n')
 
     def is_exist(self, word_to_check):
         '''
@@ -86,7 +76,7 @@ class word_class:
         :return: True (Exist) or False (Dont Exist)
         '''
 
-        with open(file_name, 'r', encoding='utf-8') as f1:
+        with open(file_name, 'r', encoding=ENCODING) as f1:
 
             for line in f1:
                 splits = line.split(',') # returns list
