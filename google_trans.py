@@ -12,8 +12,8 @@ import pandas as pd
 from googletrans import Translator
 # working version pip install googletrans==3.1.0a0
 
-import Word_operations as Wo
-from Word_operations import *
+import word_operations as Wo
+from word_operations import *
 import utils
 import file_operations
 
