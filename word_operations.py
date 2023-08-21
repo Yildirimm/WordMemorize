@@ -8,7 +8,7 @@ from tempfile import NamedTemporaryFile
 import shutil
 
 file_name = "word_files/words.csv"
-file_name2 = "words_up.csv"
+file_name2 = "others/words_up.csv"
 header = ["word_cat", "last_date", "word_itself", "en", "tr", "correct_count"]
 ENCODING = "utf-32"
 
